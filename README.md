@@ -14,8 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `Interface of Landing Page`
+### `Description`
 
+This is an application that provides images of Marvel and DC Super Heroes.
 
 ![](public/assets/20171130_imax-1280x720.jpg)
 
