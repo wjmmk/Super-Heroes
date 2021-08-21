@@ -17,5 +17,5 @@ You will also see any lint errors in the console.
 ### `Interface of Landing Page`
 
 
-![](src/assets/20171130_imax-1280x720.jpg)
+![](public/assets/20171130_imax-1280x720.jpg)
 
