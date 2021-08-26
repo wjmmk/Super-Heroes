@@ -18,5 +18,6 @@ You will also see any lint errors in the console.
 
 This is an application that provides images of Marvel and DC Super Heroes.
 
+
 ![](public/assets/20171130_imax-1280x720.jpg)
  
